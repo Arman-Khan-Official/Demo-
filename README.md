@@ -1,4 +1,4 @@
 # Demo-Repo
 This is my first Git Repository.
 <br>
-Author - Arman Khan
+Author - Arman Khan Official
